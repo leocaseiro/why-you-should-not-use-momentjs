@@ -3,4 +3,4 @@
 329K (minified)
 69.6K (gziped)
 
-<img style="border: 0" src="../images/heavy.png" />
+<img style="border: 0" src="./images/heavy.png" />

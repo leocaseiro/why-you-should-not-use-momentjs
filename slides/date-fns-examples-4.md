@@ -1,7 +1,7 @@
 ### Documentation
 
 <a target="_blank" href="https://date-fns.org/docs/">
-    <img style="border: 0; " src="../images/docs.png" />
+    <img style="border: 0; " src="./images/docs.png" />
 </a>
 
 
