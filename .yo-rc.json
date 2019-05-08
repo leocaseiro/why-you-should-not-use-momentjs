@@ -1,0 +1,10 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Why you should stop using MomentJS",
+    "packageVersion": "0.0.0",
+    "useSass": true,
+    "deployToGithubPages": true,
+    "githubUsername": "leocaseiro",
+    "githubRepository": "why-you-should-not-use-momentjs"
+  }
+}
